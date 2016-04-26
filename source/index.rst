@@ -28,7 +28,7 @@ Contents:
 ----------------
 
 
- :doc:`markit`_.
+ :doc:`Test mark</markit>`_.
 
 * Datasource-OpenStreetMap-OSM/TM/SRTM
 
@@ -40,16 +40,16 @@ GDAL的Geometry使用:
 http://nbviewer.jupyter.org/github/supergis/git_notebook/blob/master/gdal/gdal-geometry.ipynb
 
 高级数据分析
------------
-* 
+----------------------
+
 .. toctree::
    :maxdepth: 2
    
-   markit 
    helloworld
+   markit
 
 Indices and tables
-==================
+=======================
 
 * :ref:`genindex`
 
