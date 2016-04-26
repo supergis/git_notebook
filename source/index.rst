@@ -26,9 +26,13 @@ Contents:
 
 2、开放数据
 ----------------
-
-
  :doc:`Test mark</markit>`_.
+
+.. toctree::
+   :maxdepth: 2
+   
+   helloworld
+   markit
 
 * Datasource-OpenStreetMap-OSM/TM/SRTM
 
@@ -42,11 +46,6 @@ http://nbviewer.jupyter.org/github/supergis/git_notebook/blob/master/gdal/gdal-g
 高级数据分析
 ----------------------
 
-.. toctree::
-   :maxdepth: 2
-   
-   helloworld
-   markit
 
 Indices and tables
 =======================
