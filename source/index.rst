@@ -10,10 +10,9 @@ Contents:
 
 运行环境
 -------
-* Jupyter
-Notebook
-Docker
-ReadTheDocs
+* Jupyter *
+* Notebook\\Docker
+* ReadTheDocs
 
 * Spark
 * Datasource-OpenStreetMap-OSM/TM/SRTM
