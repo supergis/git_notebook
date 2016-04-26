@@ -1,4 +1,0 @@
-Markdown test
-======================
-
-* Markdown test
