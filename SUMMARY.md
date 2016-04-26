@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [[gdal]](gdal/gdal.md)
+* [[gdal]](doc/gdal.md)
 * [(spark.md)](doc/spark.md)
 
