@@ -28,7 +28,7 @@ Contents:
 ----------------
 
 
-*  :doc:`Markdown test</markit>`_
+ :doc:`markit`_.
 
 * Datasource-OpenStreetMap-OSM/TM/SRTM
 
