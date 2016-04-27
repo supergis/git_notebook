@@ -33,7 +33,9 @@ Contents:
    
    helloworld
    markit
-
+   pystart_databasic
+   pandas_quickstart 
+    
 * Datasource-OpenStreetMap-OSM/TM/SRTM
 
 3、入门教程

@@ -31,6 +31,7 @@ import os
 # ones.
 extensions = [
     'sphinx.ext.viewcode',
+    'nbsphinx'
 #    'sphinx.ext.autodoc',
 #    'rst2pdf.pdfbuilder'
 ]
