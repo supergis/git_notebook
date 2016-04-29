@@ -31,24 +31,13 @@ import os
 # ones.
 extensions = [
     'sphinx.ext.viewcode',
-    'nbsphinx'
-#    'sphinx.ext.autodoc',
+    'nbsphinx',
+    'sphinx.ext.autodoc',
 #    'rst2pdf.pdfbuilder'
 ]
 
-#extensions = [
-#   'sphinx.ext.autodoc',
-#    'rst2pdf.pdfbuilder'
-#]
-
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-
-
-# The suffix(es) of source filenames.
-# You can specify multiple suffix as a list of string:
-# source_suffix = ['.rst', '.md']
-#source_suffix = '.rst'
 
 #==================
 #Support Markdown,by openthings@163.com
@@ -124,7 +113,6 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
-
 # -- Options for HTML output ----------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -193,7 +181,7 @@ html_static_path = ['_static']
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-#html_show_sphinx = True
+html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 #html_show_copyright = True
@@ -238,9 +226,9 @@ latex_elements = {
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
 
+#\\usepackage[english]{babel}
 'preamble': '''
 \\hypersetup{unicode=true}
-\\usepackage[english]{babel}
 #\\usepackage{CJKutf8}
 \\AtBeginDocument{\\begin{CJK}{UTF8}{gbsn}}
 \\AtEndDocument{\\end{CJK}}
