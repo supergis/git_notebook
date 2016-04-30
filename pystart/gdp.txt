@@ -1,0 +1,10 @@
+USA        15094025
+China      11299967
+India       4457784
+Japan       4440376
+Germany     3099080
+Russia      2383402
+Brazil      2293954
+UK          2260803
+France      2217900
+Italy       1846950
