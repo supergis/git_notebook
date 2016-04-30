@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Notebook 教程大全](git_list.md)
+    * [获取相关资源](git_get.md)
 * [地理空间数据处理]
     * [GeoPandas]
     * [Fiona和Shaply]
