@@ -1,4 +1,3 @@
-
 # GeoJSON的python支持库。
 [openthings@163.com](http://my.oschina.net/u/2306127/blog?catalog=3420733), 2016-04.   
 * IETF标准项目：https://github.com/geojson  
