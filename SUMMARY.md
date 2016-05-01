@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Notebook 教程大全]
+    * [Python基础教程](doc/pystart_catalog.md)
     * [Notebook资源大全](git_list.md)
     * [批量下载资源到本地](git_get.md)
 * [全球的开放数据源](doc/opendatasource.md)
@@ -35,6 +36,9 @@
     * [SRTM地形高程数据处理](doc/srtm.md)
     * [TM专题卫星影像数据处理](doc/tm.md)    
 * [Python并行处理方法]
-    * [PySpark的使用](doc/pyspark.md)
-* [python](doc/pystart_catalog.md)
+    * [快速并行处理方法]
+    * [调度到后台执行]
+* [PySpark的使用](doc/spark.md)
+    * [Spark 安装配置](doc/sparksetup.md)
+    * [Spark SQL使用](doc/pysparksql.md)
 
