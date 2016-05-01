@@ -137,29 +137,20 @@
 
 ### 三、金融类
 #### 证券
-1、上海证券交易所
-http://www.sse.com.cn/；其中研究出版栏目中有些研究报告
-2、深圳证券交易所
-http://www.szse.cn/其中研究/刊物中有研究报告
-3、全国中小企业股份转让系统（新三板）
-http://www.neeq.com.cn/；新三板挂牌公司的转让及信息披露
-4、香港证券交易所：
-http://www.hkexnews.hk/index_c.htm ；
-5、台湾证券交易所：
-http://www.tse.com.tw/ch/index.php
-6、新加坡证券交易所
-http://www.sgx.com/
-7、纽约证券交易所
-http://www.nyse.com
-8、纳斯达克证券交易所
-http://www.nasdaq.com
+* [1、上海证券交易所](http://www.sse.com.cn/),其中研究出版栏目中有些研究报告.
+* [2、深圳证券交易所](http://www.szse.cn/),其中研究/刊物中有研究报告
+* [3、全国中小企业股份转让系统（新三板）](http://www.neeq.com.cn/),新三板挂牌公司的转让及信息披露.
+* [4、香港证券交易所](http://www.hkexnews.hk/index_c.htm)
+* [5、台湾证券交易所](http://www.tse.com.tw/ch/index.php)
+* [6、新加坡证券交易所](http://www.sgx.com/)
+* [7、纽约证券交易所](http://www.nyse.com)
+* [8、纳斯达克证券交易所](http://www.nasdaq.com)
 
-金融
-1、万德数据库（金融）
-http://www.wind.com.cn/
+#### 金融
+* [1、万德数据库（金融）](http://www.wind.com.cn/)
 中国大陆领先的金融数据、信息和软件服务企业，Wind资讯的客户包括超过90%的中国证券公司、基金管理公司、保险公司、银行和投资公司等金融企业；在 国际市场，已经被中国证监会批准的合格境外机构投资者（QFII）中75%的机构是Wind资讯的客户。同时国内多数知名的金融学术研究机构和权威的监管 机构也是我们的客户，大量中英文媒体、研究报告、学术论文等经常引用Wind资讯提供的数据。
-定位：高端机构客户
-机构市场占有率：80%
+定位：高端机构客户 
+机构市场占有率：80%  
 优势：（1）数据表结构还是比较科学，而且还有很多不同工具，例如WACC计算小插件、贝塔计算小插件、另外还有直接在EXCEL估值的模版。
 （2）用户体现非常好，界面体验一流，符合中国人的使用习惯。
 （3）特色数据库有中国A\\B股数据、基金数据、债券数据和期货数据都非常突出。
@@ -170,18 +161,15 @@ http://www.wind.com.cn/
 （2）世界指数等国际数据库还是一般。
 （3）主要是提供资讯，下单通道没有Bloomberg没有那么强大。
 （4）行业数据严重缺乏，而且质量真的不太好。
-2、恒生聚缘（金融）
-http://www.gildata.com.cn/
-
+* [2、恒生聚缘（金融）](http://www.gildata.com.cn/)
 这个数据库其实也是定位为机构的，还有一套完全的信息技术系统解决方法。但是这个数据库不太出名，但是这是我用过价格便宜然后质量非常高的数据库。
-优点：
+优点：  
 （1）界面设计虽然没有万德那么花哨，但是非常实在，非常实用，而且很方便。数据结构也科学，不会出现过多冗余的状况。
 （2）价格比万德便宜，但是性价比挺高的。
 （3）A\\B股数据是强项 
 （4）研究报告更新速度比较快，比较全面、质量比万德好。
 （5）数据质量过硬。
-3、CSMAR数据库（金融）
-http://www.gtarsc.com/
+* [3、CSMAR数据库（金融）](http://www.gtarsc.com/)
 定位：中国80%的学术机构和香港高校都是使用CSMAR，美国大部分的大学例如沃顿等是使用CSMAR数据库
 优点
 （1）公司金融数据是强项，非常强大和齐全，我经常使用哈哈。
@@ -193,14 +181,12 @@ http://www.gtarsc.com/
 （2）数据结构有些设计是有问题。
 （3）缺乏资讯类的数据。
 （4）行业数据是更新速度是所有数据库中最慢的，建议不要使用行业数据库。
-4、锐思数据库（金融）
-http://www.resset.cn/cn/
+* [4、锐思数据库（金融）](http://www.resset.cn/cn/)
 定位：学术机构
 特点：
 基本上是Copy外国的数据库结构，而且数据字段不够丰富，建议不要使用。
-5、巨潮数据库（金融）
-http://www.cninfo.com.cn/
-深交所旗下的一个数据库公司，有这个得天独厚的优势
+* [5、巨潮数据库（金融）](http://www.cninfo.com.cn/)
+深交所旗下的一个数据库公司，有这个得天独厚的优势.
 （1）交易所的公告、董事会决议总是最快可以知道。
 （2）异动数据库中的异动记录肯定不止前十名，获取还能看到前15名，哈哈！
 缺点
@@ -208,36 +194,55 @@ http://www.cninfo.com.cn/
 （2）好像异动数据库，把所有的债券、股票、衍生证、涡轮全部放在一起，结果有一次踩地雷，把债券和股票都提了出来，原因是股票的代码=债券的代码，真的囧死了。
 （3）异动数据中的计算方法严重不正确，如果你查阅交易所对涨跌幅偏离值的计算方法，你会发现在2006年8月4日前后会非常不同。结果又一次让我踩到地雷。
 （4）数据质量一般，算不上好。
-6、清科数据库（金融）
-http://www.pedaily.cn/
+* [6、清科数据库（金融）](http://www.pedaily.cn/)
 清科研究数据库包含风险投资,私募股权,创业者相关投资,私募,并购,上市数据库,范围涉及投资机构,企业,投资人物相关TMT、传统行业、清洁技术、生技健康等行业市场事件用的比较少，专做Pe,风险投资数据的。
-7、人大经济论坛
-http://bbs.pinggu.org/forum-5-1.html
+* [7、人大经济论坛](http://bbs.pinggu.org/forum-5-1.html)
 http://bbs.pinggu.org/forum-55-1.html
 有许多数据叫卖，提供大量的可供下载的经济学资源，而且还有许多有用的连接。当然，这是一个免费的网站，但下载某些资源时，说不定要求一定的所谓积分限制。这个强力推荐~~
 
-四、互联网类
-1、淘宝指数
-http://shu.taobao.com/
-2、互联网TMT数据
-http://www.199it.com/
-3、百度指数（综合）
-http://index.baidu.com/
+### 四、互联网类
+* [1、淘宝指数](http://shu.taobao.com/)
+* [2、互联网TMT数据](http://www.199it.com/)
+* [3、百度指数（综合）](http://index.baidu.com/)
 
-五、自然卫生类
-1、中国气象局
-http://wwwNaNa.gov.cn/2011qxfw/2011qsjcx/
-2、中国气象科学数据共享服务网
-http://cdcNaNa.gov.cn/home.do
-在http://cdcNaNa.gov.cn注册为用户后（密码会发送至你的邮箱）登录，选择数据种类（共14大类），在每类中选择你所关心的数据集， 这时弹出每个数据集的元数据信息页面。页面正中有检索方式，选台站或空间、时间就可得到检索结果，点击下载即可。CDC网站的数据只要是共享的数据，就是 免费的。 
-3、公共卫生科学数据中心
-http://www.phsciencedata.cn/Share/index.jsp
-房地产
-克尔瑞（房地产）
-http://www.cricchina.com/Data/DataPage/DataPageIndex
-中国最大、最先进的房地产数据库，易居中国旗下
-其他
-1、数据堂
-http://datatang.com/
-2、数据熊猫（导航）
-http://www.datapanda.net/123/
+### 五、自然卫生类
+* [1、中国气象局](http://wwwNaNa.gov.cn/2011qxfw/2011qsjcx/)
+* [2、中国气象科学数据共享服务网](http://cdcNaNa.gov.cn/home.do)
+在http://cdcNaNa.gov.cn注册为用户后（密码会发送至你的邮箱）登录，选择数据种类（共14大类），在每类中选择你所关心的数据集，这时弹出每个数据集的元数据信息页面。页面正中有检索方式，选台站或空间、时间就可得到检索结果，点击下载即可。CDC网站的数据只要是共享的数据，就是免费的。
+* [3、公共卫生科学数据中心](http://www.phsciencedata.cn/Share/index.jsp)
+### 房地产
+* [克尔瑞（房地产）](http://www.cricchina.com/Data/DataPage/DataPageIndex),中国最大、最先进的房地产数据库，易居中国旗下。
+### 其他
+* [1、数据堂](http://datatang.com/)
+* [2、数据熊猫（导航）](http://www.datapanda.net/123/)
+
+
+## 开放数据源（四），遥感、地理信息 
+
+* [中国国家海洋卫星应用中心](http://www.nsoas.gov.cn/zx/channel/dmyy_01.asp)
+* [中国资源卫星应用中心](http://219.143.215.3/home.jsp)
+* [SRTM全球地形高程测量](http://www2.jpl.nasa.gov/srtm)
+* [TM全球15米存档多波段专题影像](http://glcfapp.umiacs.umd.edu:8080/esdi/index.jsp)
+##### 其它TM和MSS:
+* http://earthexplorer.usgs.gov/
+* http://edcsns17.cr.usgs.gov/earthexplorer
+* http://glovis.usgs.gov/
+* http://landsat.datamirror.csdb.cn/, 这是中科院的国际科学数据服务平台。
+##### 多光谱卫星影像：
+* http://speclab.cr.usgs.gov
+* http://asterweb.jplnasa.gov
+##### 遥感数据免费下载网址：
+* 1.http://www.landsat.org/ortho/index.htm  
+* 2.http://edcdaac.usgs.gov/datapool/datatypes.asp 
+* [3.modis L1B 1km](http://daac.gsfc.nasa.gov/data/dataset/MODIS/01_Level_1/index.html),免费注册，免费下载，daily data. 
+* 4.http://edcimswww.cr.usgs.gov/pub/imswelcome/ 
+* 5.http://glovis.usgs.gov/  
+* 6.landsat etm+ and tm images for 
+* http://www.landsat.org/ortho/index.htm 
+##### 全球DEM、遥感图像、矢量图像免费下载
+* 全球各国shape数据下载，包括矢量要素、dem数据、遥感图片，免费，精度不知。
+http://biogeo.berkeley.edu/bgm/gdata.php
+* 全球各国eoo格式数据下载，包括矢量要素、dem数据、遥感图片，需付费，也有部分类型数据免费，精度不知道。
+http://data.geocomm.com/
+* 公开的DEM数据,SRTM3/SRTM,数据主要是由美国太空总署(NASA)和国防部国家测绘局(NIMA) 
+
