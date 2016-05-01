@@ -1,10 +1,10 @@
 
 # Master Data Using Python
-
-##### by [openthings@163.com](http://my.oschina.net/u/2306127/blog?catalog=3420733), 2016-04.  
-** 大数据科学家的神器：[Python](http://www.python.org) - [Anaconda](http://www.anaconda.org) - [Jupyter](http://www.jupyter.org) - [IPython](http://www.ipython.org) - [Spark](http://spark.apache.org)** | 社区: [http://pydata.org/](http://pydata.org/)
-
+** 大数据科学家的神器：[Python](http://www.python.org) - [Anaconda](http://www.anaconda.org) - [Jupyter](http://www.jupyter.org) - [IPython](http://www.ipython.org) - [Spark](http://spark.apache.org)**  
+** Python数据分析大会与社区活动: [http://pydata.org/](http://pydata.org/) - [Download](http://pydata.org/downloads/)
 #### Python数据操作快速入门
+** by [openthings@163.com](http://my.oschina.net/u/2306127/blog?catalog=3420733), 2016-04.**  
+
 ##### 一、数组、列表、词典、元组
 [python基础数据结构的使用。](http://nbviewer.jupyter.org/github/supergis/git_notebook/blob/master/pystart/pystart_databasic.ipynb)
 ##### 二、系统操作－文件与目录
