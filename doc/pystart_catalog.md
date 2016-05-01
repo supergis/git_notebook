@@ -2,7 +2,7 @@
 # Master Data Using Python
 
 ##### by [openthings@163.com](http://my.oschina.net/u/2306127/blog?catalog=3420733), 2016-04.  
-** 大数据科学家的神器：[Python](http://www.python.org) - [Anaconda](http://www.anaconda.org) - [Jupyter](http://www.jupyter.org) - [IPython](http://www.ipython.org)** - [Spark](http://spark.apache.org)
+** 大数据科学家的神器：[Python](http://www.python.org) - [Anaconda](http://www.anaconda.org) - [Jupyter](http://www.jupyter.org) - [IPython](http://www.ipython.org) - [Spark](http://spark.apache.org)** | 社区: [http://pydata.org/](http://pydata.org/)
 
 #### Python数据操作快速入门
 ##### 一、数组、列表、词典、元组
