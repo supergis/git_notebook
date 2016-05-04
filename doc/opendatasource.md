@@ -6,7 +6,7 @@
 * [gapminder](http://www.gapminder.org/data/),编译数据源,包括世界卫生组织和世界银行覆盖经济、医疗和社会统计数据。
 * [美国中央情报局,世界概况](https://www.cia.gov/library/publications/the-world-factbook/),包含267个国家的历史信息、人口、经济、政府、基设施和军事等信息。
 * [国家气候数据中心](http://www.ncdc.noaa.gov/data-access/quick-links#loc-clim),巨大的环境、气象和气候数据集来自美国国家气候数据中心。世界上最大的气象数据的归档。
-* [openstreetmap](http://www.openstreetmap.org),全球范围的免费地图数据，每周动态更新。
+* [OpenStreetMap](http://www.openstreetmap.org),全球范围的免费地图数据，每周动态更新。
 
 * [亚马逊网络服务公共数据集](http://aws.amazon.com/datasets),巨大的公共数据资源,包括1000基因组计划,试图构建人类遗传信息的最全面的数据库和NASA的地球的卫星图像的数据库。
 * [谷歌趋势](http://www.google.com/trends/explore),统计搜索量(搜索)总额的比例对于任何给定的期限,自2004年以来。
@@ -221,8 +221,9 @@ http://bbs.pinggu.org/forum-55-1.html
 
 * [中国国家海洋卫星应用中心](http://www.nsoas.gov.cn/zx/channel/dmyy_01.asp)
 * [中国资源卫星应用中心](http://219.143.215.3/home.jsp)
-* [SRTM全球地形高程测量](http://www2.jpl.nasa.gov/srtm)
-* [TM全球15米存档多波段专题影像](http://glcfapp.umiacs.umd.edu:8080/esdi/index.jsp)
+* [SRTM全球地形高程测量](http://www2.jpl.nasa.gov/srtm),http://dds.cr.usgs.gov/srtm/,http://www.cgiar-csi.org/data/srtm-90m-digital-elevation-database-v4-1,http://dwtkns.com/srtm/,http://elevation.bopen.eu/en/stable/quickstart.html
+* [TM全球15米存档多波段专题影像](http://glcfapp.umiacs.umd.edu:8080/esdi/index.jsp),貌似已无法访问。
+* [German Aerospace Center (DLR)](http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-8799/)
 ##### 其它TM和MSS:
 * http://earthexplorer.usgs.gov/
 * http://edcsns17.cr.usgs.gov/earthexplorer
