@@ -24,13 +24,13 @@
     * [OpenStreetMap数据处理](doc/osm.md)
         * [OSM 数据下载与结构分析]
             * [xml数据结构](doc/osmdatastructure.md)
-            * [bbox区域数据下载](doc/osmdatadownload.md)
+            * [bbox区域数据下载](doc/osm-discovery.md)
         * [Overpass在线API使用]
-            * [API接口与查询语法](doc/overpassapi.md)
+            * [API接口与查询语法](doc/osm-overpass-node.md)
             * [地图数据下载与保存](doc/overpassget.md)
         * [OSM递归方式处理](doc/osm2feature.md)
             * [eTree与迭代访问]
-            * [OSM转为行存储JSON](doc/osm2json.md)
+            * [OSM转为行存储JSON](doc/osm-extract2json.md)
         * [OSM构建Geometry](git_get.ipynb)
             * [OSM转为GeoJSON]
     * [SRTM地形高程数据处理](doc/srtm.md)
